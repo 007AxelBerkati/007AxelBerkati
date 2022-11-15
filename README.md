@@ -49,4 +49,6 @@
 <img src="https://raw.githubusercontent.com/007AxelBerkati/007AxelBerkati/snake.svg" alt="Snake animation" />
 <img align="center" alt="coding" width="1000" src="https://raw.githubusercontent.com/007AxelBerkati/007AxelBerkati/blob/output/snake.svg">
 <img align="center" alt="coding" width="1000" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+  
+  ![Snake animation](https://raw.githubusercontent.com/007AxelBerkati/007AxelBerkati/blob/output/snake.svg)
 ###
