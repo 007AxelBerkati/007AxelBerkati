@@ -47,5 +47,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/007AxelBerkati/007AxelBerkati/snake.svg" alt="Snake animation" />
+<img align="center" alt="coding" width="1000" src="https://raw.githubusercontent.com/007AxelBerkati/007AxelBerkati/snake.svg">
 
 ###
