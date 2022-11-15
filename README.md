@@ -42,11 +42,10 @@
 <a href="https://www.linkedin.com/in/axel-berkati-5a1725194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel-berkati-5a1725194" height="30" width="40" /></a>
 <a href="https://www.instagram.com/axelb2310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axelb2310" height="30" width="40" /></a>
 
-
-
 ###
 
 <br clear="both">
-<img align="center" alt="coding" width="1000" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/007AxelBerkati/007AxelBerkati/blob/output/snake.svg" alt="Snake animation" />
 
 ###
